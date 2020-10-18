@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+/* Your custom styles */
+.btn-primary,
+.bg-primary {
+  background: linear-gradient(45deg, black, blueviolet);
+}
+.btn-secondary,
+.bg-secondary {
+  background: linear-gradient(45deg, black, purple);
+}
+.btn-success,
+.bg-success {
+  background: linear-gradient(45deg, black, limegreen);
+}
+.btn-info,
+.bg-info {
+  background: linear-gradient(45deg, black, lightblue);
+}
+.btn-warning,
+.bg-warning {
+  background: linear-gradient(45deg, black, orange);
+}
+.btn-danger,
+.bg-danger {
+  background: linear-gradient(45deg, black, red);
+}
+.btn-light,
+.bg-light {
+  background: linear-gradient(45deg, darkgray, gray);
+}
+.btn-dark,
+.bg-dark {
+  background: linear-gradient(45deg, black, darkslategray);
+}
+.eating {
+  background: white
+    url("https://thumbs.dreamstime.com/z/man-eating-chicken-rice-outdoor-restaurant-portrait-happy-young-baked-stick-served-wild-76033238.jpg");
+  background-size: cover;
+  height: 30vh;
+  width: 50vh;
+  color: rgb(15, 13, 13);
+}
+.sleeping {
+  background: white
+    url("https://i.pinimg.com/originals/60/00/91/600091e10ad8718d7a9b699a8a9d0bc7.jpg");
+  background-size: cover;
+  height: 50vh;
+  width: 50vh;
+  color: rgb(255, 255, 255);
+}
+.coding {
+  background: white
+    url("https://image.freepik.com/free-photo/young-man-with-laptop-sitting-floor_23-2147577277.jpg");
+  background-size: cover;
+  height: 30vh;
+  width: 50vh;
+  color: black;
+}
+.sleepingman {
+  background: white
+    url("https://media2.s-nbcnews.com/j/newscms/2017_40/2176846/171003-better-stock-man-sleeping-alone-ew-602p_3c228f0f9bff1031bbb2f8b6d132ca51.fit-2000w.jpg");
+  background-size: cover;
+  height: 50vh;
+  width: 50vh;
+  color: rgb(255, 255, 255);
+}
